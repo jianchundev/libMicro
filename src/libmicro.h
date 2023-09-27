@@ -25,7 +25,7 @@
 
 #define	LIBMICRO_VERSION	"1505"
 
-#define	STRSIZE			1024
+#define	STRSIZE			512
 
 typedef struct {
 	uint64_t		re_t0;
